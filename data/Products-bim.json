@@ -1,0 +1,66 @@
+{
+  "projectname": "Duplex Apartment",
+  "data": [
+    {
+      "name": "Level 1",
+      "sublevels": [
+        {
+          "name": "Water Insulation",
+          "sublevels": [],
+          "products": [
+            {
+              "img": "bimImage",
+              "name": "2D_squat_closet_7067",
+              "description": "2D squatting closet symbol",
+              "ean": "6405422720651",
+              "quantity": 2,
+              "matchingProduct": {
+                "img": "productImage",
+                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
+                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
+                "id": "5652007",
+                "price": 200
+              }
+            },
+            {
+              "img": "bimImage",
+              "name": "2D_squat_closet_7067",
+              "description": "2D squatting closet symbol",
+              "ean": "123456",
+              "quantity": 2,
+              "matchingProduct": {
+                "img": "productImage",
+                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
+                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
+                "id": "5652007",
+                "price": 50
+              }
+            },
+            {
+              "img": "bimImage",
+              "name": "2D_squat_closet_7067",
+              "description": "2D squatting closet symbol",
+              "ean": "123456",
+              "quantity": 1,
+              "matchingProduct": {
+                "img": "productImage",
+                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
+                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
+                "id": "5652007",
+                "price": 150
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Level 2",
+      "sublevels": []
+    },
+    {
+      "name": "Roof",
+      "sublevels": []
+    }
+  ]
+}

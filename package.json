@@ -1,0 +1,22 @@
+{
+  "name": "powertools",
+  "version": "1.0.0",
+  "description": "powertool serverside components",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index.js"
+  },
+  "author": "Jani Iivari <jani.iivari@digia.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "q": "^1.5.1",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0",
+    "uuid": "^3.1.0"
+  }
+}
