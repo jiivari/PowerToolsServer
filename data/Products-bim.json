@@ -2,52 +2,66 @@
   "projectname": "Duplex Apartment",
   "data": [
     {
-      "name": "Level 1",
+      "name": "Sadevesien hallinta",
       "sublevels": [
         {
-          "name": "Water Insulation",
+          "name": "SALAOJA- JA HULEVESI- JA RUMPUPUTKET SEKÄ YHTEET",
           "sublevels": [],
           "products": [
             {
               "img": "bimImage",
-              "name": "2D_squat_closet_7067",
-              "description": "2D squatting closet symbol",
-              "ean": "6405422720651",
+              "name": "2620065",
+              "description": "HULEVESIKASETTI UPONOR 300 INSPECT",
+              "ean": "6414902395203",
               "quantity": 2,
               "matchingProduct": {
-                "img": "productImage",
-                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
-                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
-                "id": "5652007",
-                "price": 200
+                "img": "https://onninen-file-storage.imgix.net/2620065.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "HPL-JOHDINPUTKI EN10305-4 E355 30X5,0 E355+N MUSTA",
+                "description": "Uponor-hulevesikasetit on kehitetty tontilla tapahtuvaan hulevesien varastointiin ja imeytykseen. Hulevesikasetit ovat suorakaiteen muotoisia moduuleita, jotka soveltuvat käytettäviksi julkisessa rakentamisessa ja isoissakin kohteissa. Tyypillisiä käyttökohteita ovat piha- ja varastoalueet, liikekeskukset, pysäköinti- ja liikennealueet, terminaalit ja varikot.",
+                "id": "0354236",
+                "price": 124.75
               }
             },
             {
               "img": "bimImage",
-              "name": "2D_squat_closet_7067",
-              "description": "2D squatting closet symbol",
-              "ean": "123456",
-              "quantity": 2,
+              "name": "2620063",
+              "description": "HULEVESIKASETTI UPONOR LIITIN",
+              "ean": "2620063",
+              "quantity": 20,
               "matchingProduct": {
-                "img": "productImage",
-                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
-                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
-                "id": "5652007",
-                "price": 50
+                "img": "https://onninen-file-storage.imgix.net/2620063.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "HULEVESIKASETTI UPONOR LIITIN",
+                "description": "Uponor-hulevesikasetit on kehitetty tontilla tapahtuvaan hulevesien varastointiin ja imeytykseen. Hulevesikasetit ovat suorakaiteen muotoisia moduuleita, jotka soveltuvat käytettäviksi julkisessa rakentamisessa ja isoissakin kohteissa. Tyypillisiä käyttökohteita ovat piha- ja varastoalueet, liikekeskukset, pysäköinti- ja liikennealueet, terminaalit ja varikot.",
+                "id": "0354236",
+                "price": 17.95
               }
             },
             {
               "img": "bimImage",
-              "name": "2D_squat_closet_7067",
-              "description": "2D squatting closet symbol",
-              "ean": "123456",
+              "name": "2620041",
+              "description": "HULEVESISÄILIÖ UPONOR 3M3 560 NOUSUPUTKELLA",
+              "ean": "6414908402561",
               "quantity": 1,
               "matchingProduct": {
-                "img": "productImage",
-                "name": "WC-ISTUIN GUSTAVSBERG NAUTIC 5500",
-                "description": "Gustavsberg Nautic 5500 WC on S-lukollinen piiloviemärimalli. Tässä mallissa on erityisen helppohoitoinen CeramicPlus-lasitus. Nautic 5500 WC-istuimessa on kaksoishuuhtelu 3/6L ja vakioistuinkansi. Kondensoimaton vesisäiliö erillisellä sisäsäiliöllä, hiljainen täyttöääni. Istuinkorkeus on 42cm. Tarvittaessa huuhtelupainike on helppo vaihtaa 6L huuhteluksi.",
-                "id": "5652007",
-                "price": 150
+                "img": "https://onninen-file-storage.imgix.net/2620041.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "HULEVESISÄILIÖ UPONOR 3M3 560 NOUSUPUTKELLA",
+                "description": "Pientalon sadevesien keräilyyn ja varastointiin veden hyödyntämiseksi myöhemmin esim. puutarhan kasteluun. Paketti sisältää säiliön 3 m³ ja huoltokaivon ø 560 mm. Ankkurointiin tarvitaan 2 ankkurointijärjestelmää.",
+                "id": "2620041",
+                "price": 1887
+              }
+            },
+            {
+              "img": "bimImage",
+              "name": "2512610",
+              "description": "SADEVESIPUTKI SN4 FARMAR TUPLA 315 6M MUHVITON",
+              "ean": "6414959631507",
+              "quantity": 10,
+              "matchingProduct": {
+                "img": "https://onninen-file-storage.imgix.net/2620041.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "SADEVESIPUTKI SN4 FARMAR TUPLA 315 6M MUHVITON",
+                "description": "Sadevesiputki/rumpuputki moneen käyttöön kevyemmin kuormitettuihin kohteisiin.",
+                "id": "2620041",
+                "price": 14.95
               }
             }
           ]
@@ -55,8 +69,57 @@
       ]
     },
     {
-      "name": "Level 2",
-      "sublevels": []
+      "name": "Salaojat",
+      "sublevels": [
+        {
+          "name": " TARKASTUS- JA SALAOJAKAIVOT",
+          "sublevels": [],
+          "products": [
+            {
+              "img": "bimImage",
+              "name": "2682903",
+              "description": "SADEVESIKAIVO",
+              "ean": "7033730863198",
+              "quantity": 1,
+              "matchingProduct": {
+                "img": "https://onninen-file-storage.imgix.net/4158213.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "SADEVESIKAIVOPAKETTI PIPELIFE 560X500X108L 40TN",
+                "description": "2682903 Sadevesikaivopaketti Pipelife 560x500x108l 40tn",
+                "id": "2682903",
+                "price": 750.45
+              }
+            },
+            {
+              "img": "bimImage",
+              "name": "2620063",
+              "description": "HULEVESIKASETTI UPONOR LIITIN",
+              "ean": "2620063",
+              "quantity": 20,
+              "matchingProduct": {
+                "img": "https://onninen-file-storage.imgix.net/2620063.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "HULEVESIKASETTI UPONOR LIITIN",
+                "description": "Uponor-hulevesikasetit on kehitetty tontilla tapahtuvaan hulevesien varastointiin ja imeytykseen. Hulevesikasetit ovat suorakaiteen muotoisia moduuleita, jotka soveltuvat käytettäviksi julkisessa rakentamisessa ja isoissakin kohteissa. Tyypillisiä käyttökohteita ovat piha- ja varastoalueet, liikekeskukset, pysäköinti- ja liikennealueet, terminaalit ja varikot.",
+                "id": "0354236",
+                "price": 17.95
+              }
+            },
+            {
+              "img": "bimImage",
+              "name": "2620041",
+              "description": "HULEVESISÄILIÖ UPONOR 3M3 560 NOUSUPUTKELLA",
+              "ean": "6414908402561",
+              "quantity": 1,
+              "matchingProduct": {
+                "img": "https://onninen-file-storage.imgix.net/2620041.jpg?auto=format&dpr=1&crop=false&fit=clip&w=495&h=376",
+                "name": "HULEVESISÄILIÖ UPONOR 3M3 560 NOUSUPUTKELLA",
+                "description": "Pientalon sadevesien keräilyyn ja varastointiin veden hyödyntämiseksi myöhemmin esim. puutarhan kasteluun. Paketti sisältää säiliön 3 m³ ja huoltokaivon ø 560 mm. Ankkurointiin tarvitaan 2 ankkurointijärjestelmää.",
+                "id": "2620041",
+                "price": 1887
+              }
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "Roof",
